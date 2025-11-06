@@ -26,7 +26,7 @@ Inspirado na estética digital de *Matrix*, o vídeo traz:
 
 ## 🎞️ Visual completo
 🎬 Veja o vídeo principal do projeto:  
-[🎥 **Assistir Alquimistas_da_Informacao.mp4**](https://github.com/Cspaiva/CRIACAO-DE-PODCAST-COM-IA/tree/main/media/Alquimistas_da_Informacao.mp4)
+[🎥 **Assistir Alquimistas_da_Informacao.mp4**](https://github.com/Cspaiva/CRIACAO-DE-PODCAST-COM-IA/media/Alquimistas_da_Informacao.mp4)
 
 💡 Ou veja o preview abaixo:
 ![Imagem Base](assets/IMAGEM_FINAL_CORRIGIDA.jpeg)
@@ -35,7 +35,7 @@ Inspirado na estética digital de *Matrix*, o vídeo traz:
 
 ## 📸 Imagem base
 A ilustração principal utilizada na composição está disponível em:  
-[https://github.com/Cspaiva/CRIACAO-DE-PODCAST-COM-IA/blob/main/blob/main/assets/IMAGEM%20FINAL%20CORRIGIDA.jpeg)
+[https://github.com/Cspaiva/CRIACAO-DE-PODCAST-COM-IA/blob/main/assets/IMAGEM%20FINAL%20CORRIGIDA.jpeg)
 
 ---
 
