@@ -34,7 +34,7 @@ Inspirado na estética digital de *Matrix*, o vídeo traz:
 ---
 
 ## 📸 Imagem base
-A ilustração principal utilizada na composição está disponível em:  
+Abaixo a ilustração principal utilizada:  
 ![Imagem Base](https://github.com/Cspaiva/CRIACAO-DE-PODCAST-COM-IA/blob/main/assets/IMAGEM%20FINAL%20CORRIGIDA.jpeg?raw=true)
 
 ---
