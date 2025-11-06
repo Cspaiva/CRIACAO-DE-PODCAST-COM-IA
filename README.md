@@ -26,7 +26,7 @@ Inspirado na estética digital de *Matrix*, o vídeo traz:
 
 ## 🎞️ Visual completo
 🎬 Veja o vídeo principal do projeto:  
-[🎥 **Assistir Alquimistas_da_Informacao.mp4**](https://github.com/Cspaiva/CRIACAO-DE-PODCAST-COM-IA/blob/main/media/Alquimistas_da_Informacao.mp4)
+[🎥 **Assistir Alquimistas_da_Informacao.mp4**](https://github.com/Cspaiva/CRIACAO-DE-PODCAST-COM-IA/tree/main/media/Alquimistas_da_Informacao.mp4)
 
 💡 Ou veja o preview abaixo:
 ![Preview do Projeto](media/preview.gif)
@@ -52,3 +52,5 @@ Este projeto está licenciado sob a [MIT License](LICENSE).
 ---
 
 💡 *“Os alquimistas modernos não buscam ouro — buscam significado em meio ao caos dos dados.”*
+
+
