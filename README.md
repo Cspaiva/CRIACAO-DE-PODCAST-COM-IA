@@ -2,8 +2,6 @@
 
 > Projeto de abertura visual para o podcast **"Alquimistas da Informação"**, explorando o poder da Inteligência Artificial, da engenharia de prompts e da transformação de dados em sabedoria.
 
-![Preview do Projeto](media/preview.gif)
-
 ---
 
 ## 🧠 Sobre o Projeto
@@ -27,8 +25,11 @@ Inspirado na estética digital de *Matrix*, o vídeo traz:
 ---
 
 ## 🎞️ Visual completo
-O vídeo completo está disponível localmente neste repositório:  
-👉 [**Alquimistas_da_Informacao.mp4**](media/Alquimistas_da_Informacao.mp4)
+🎬 Veja o vídeo principal do projeto:  
+[🎥 **Assistir Alquimistas_da_Informacao.mp4**](https://github.com/Cspaiva/CRIACAO-DE-PODCAST-COM-IA/blob/main/media/Alquimistas_da_Informacao.mp4)
+
+💡 Ou veja o preview abaixo:
+![Preview do Projeto](media/preview.gif)
 
 ---
 
@@ -51,4 +52,3 @@ Este projeto está licenciado sob a [MIT License](LICENSE).
 ---
 
 💡 *“Os alquimistas modernos não buscam ouro — buscam significado em meio ao caos dos dados.”*
-
