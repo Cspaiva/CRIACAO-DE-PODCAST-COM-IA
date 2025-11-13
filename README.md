@@ -12,6 +12,7 @@ Inspirado na estética digital de *Matrix*, o vídeo traz:
 - Ferramentas orbitando o personagem central  
 - Ambientação imersiva e simbólica da era da informação  
 
+---
 ## 🧠 Etapas Projeto
 
 1 - Criar Roteiro ( definição de tema e roteiro completo) --> Ferramenta: Chat GPT / Copilot
