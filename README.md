@@ -26,7 +26,16 @@ Inspirado na estética digital de *Matrix*, o vídeo traz:
 
 ## 🎞️ Visual completo
 🎬 Veja o vídeo principal do projeto:  
-[🎥 **Assistir Alquimistas_da_Informacao.mp4**]((https://htmlpreview.github.io/?https://github.com/Cspaiva/Criacao-de-ebook-com-IAS/blob/main/Alquimistas_da_Informacao.mp4)
+[🎥 **Assistir Alquimistas_da_Informacao.mp4**](https://github.com/Cspaiva/CRIACAO-DE-PODCAST-COM-IA/commit/e9da085eec1ede35b73ddfafa7113b38f58e8bf8#diff-f6e5edb5d9971ce9b307eca8f840333e5a91cc3867db8d87190ebef87ad8e908)
+
+
+
+## 🎬 Visual completo
+
+🎬 Veja o vídeo principal do projeto:
+
+👉[![Clique e Assista ao vídeo](https://img.youtube.com/vi/SEU_ID_DO_VIDEO/maxresdefault.jpg)](https://youtu.be/Af2kNz-17zs)
+
 
 ---
 
