@@ -16,9 +16,9 @@ Inspirado na estética digital de *Matrix*, o vídeo traz:
 ## 🧠 Etapas Projeto
 
     1 - Criar Roteiro (definição de tema e roteiro completo) --> Ferramenta: Chat GPT / Copilot
-    2 - Criar imagens condizentes com o tema Proposto --> Ferrmenta : Midjouney / Leonardo ai
-    3 - Speech to Text  (transformação do texto em áudio) --> Ferrmenta : EventLabs
-    4 - Finalização do projeto e junção dos áudios e imagens. --> Ferrmenta : Canva
+    2 - Criar imagens condizentes com o tema Proposto --> Ferramenta : Midjouney / Leonardo ai
+    3 - Speech to Text  (transformação do texto em áudio) --> Ferramenta : EventLabs
+    4 - Finalização do projeto e junção dos áudios e imagens. --> Ferramenta : Canva
 ---
 
 ## 🧰 Ferramentas destacadas
