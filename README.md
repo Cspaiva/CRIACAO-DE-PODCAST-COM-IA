@@ -37,7 +37,7 @@ Inspirado na estética digital de *Matrix*, o vídeo traz:
 
 🎬 Veja o vídeo principal do projeto:
 
-👉[![Clique e Assista ao vídeo](https://img.youtube.com/vi/SEU_IAf2kNz-17zs/maxresdefault.jpg)](https://youtu.be/Af2kNz-17zs)
+👉[![Clique e Assista ao vídeo](https://img.youtube.com/vi/f2kNz-17zs/maxresdefault.jpg)](https://youtu.be/Af2kNz-17zs)
 
 
 ---
